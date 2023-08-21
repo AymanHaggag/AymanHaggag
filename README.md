@@ -1,5 +1,5 @@
 # Hi there, I'm Ayman Haggag - aka Haggag 👋:
-## I'm a Studying Science and Engineering
+## I'm a Studying Computer Science and Engineering
 🌱 I'm currently learning Dart, Flutter<br>⚡ I'm reading Clean Code and Design Patterns<br>👯 I'm looking to work on real projects and searching for an internship
 
 
